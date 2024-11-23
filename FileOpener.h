@@ -1,8 +1,4 @@
 #pragma once
-//
-// Created by Barlas on 1/12/2021.
-//
-
 
 std::string sgmStringTransporter(int index) {
     std::string sgmFile = "reut2-000.sgm";
