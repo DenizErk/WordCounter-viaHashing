@@ -1,9 +1,5 @@
 #pragma once
 
-//
-// Created by Barlas on 1/11/2021.
-//
-
 bool whenStart = false;
 
 std::string START_WORD = "<BODY>";
