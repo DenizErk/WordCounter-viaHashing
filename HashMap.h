@@ -1,7 +1,4 @@
 #pragma once
-//
-// Created by Barlas on 1/13/2021.
-//
 
 template<typename K, typename V>
 class HashNode {
